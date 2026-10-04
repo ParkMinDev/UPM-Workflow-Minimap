@@ -1,4 +1,4 @@
-# ParkMinPackages.Workflow.Minimap
+# ParkMinDev.UPM.Workflow.Minimap
 
 A reusable minimap workflow package for Unity projects built on `ParkMinPackages.Workflow.Default`.
 
