@@ -5,6 +5,12 @@ All notable changes to this package will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [7.0.5] - 2026-10-04
+
+### Changed
+- Renamed the repository to UPM-Workflow-Minimap and updated repository links without changing the Unity package identity, namespaces, assemblies, or asset GUIDs.
+- Updated ParkMin dependency repository URLs and synchronized their final release versions in parkmin-upm.json.
+
 ## [7.0.4] - 2026-10-04
 
 ### Changed

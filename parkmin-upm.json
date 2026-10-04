@@ -6,18 +6,18 @@
       "gitDependencies": [
         {
           "packageName": "com.parkminpackages.foundation",
-          "version": "10.1.3",
-          "url": "https://github.com/ParkMinDev/Foundation.git"
+          "version": "10.1.4",
+          "url": "https://github.com/ParkMinDev/UPM-Foundation.git"
         },
         {
           "packageName": "com.parkminpackages.ugui",
-          "version": "15.0.3",
-          "url": "https://github.com/ParkMinDev/UGUI.git"
+          "version": "15.0.4",
+          "url": "https://github.com/ParkMinDev/UPM-UGUI.git"
         },
         {
           "packageName": "com.parkminpackages.workflow.default",
-          "version": "10.0.5",
-          "url": "https://github.com/ParkMinDev/Workflow-Default.git"
+          "version": "10.0.6",
+          "url": "https://github.com/ParkMinDev/UPM-Workflow-Default.git"
         },
         {
           "packageName": "com.cysharp.unitask",

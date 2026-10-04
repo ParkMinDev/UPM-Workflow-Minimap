@@ -12,7 +12,7 @@ A reusable minimap workflow package for Unity projects built on `ParkMinPackages
 Add the following Git URL through Unity Package Manager:
 
 ```text
-https://github.com/ParkMinDev/Workflow-Minimap.git
+https://github.com/ParkMinDev/UPM-Workflow-Minimap.git
 ```
 
 ## Status
