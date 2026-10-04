@@ -1,6 +1,6 @@
 {
-  "name": "ParkMinPackages.Workflow.Minimap.Editor",
-  "rootNamespace": "ParkMinPackages.Workflow.Minimap.Editor",
+  "name": "ParkMinDev.UPM.Workflow.Minimap.Editor",
+  "rootNamespace": "ParkMinDev.UPM.Workflow.Minimap.Editor",
   "references": [
     "GUID:d6dd4d24c2ca42d5a97a4279606d29f4"
   ],

@@ -1,10 +1,11 @@
 using System;
-using ParkMinPackages.Workflow.Default.Components;
-using ParkMinPackages.Workflow.Minimap.Enums;
+using ParkMinDev.UPM.Workflow.Default.Components;
+using ParkMinDev.UPM.Workflow.Minimap.Enums;
 using UnityEngine;
 
-namespace ParkMinPackages.Workflow.Minimap.Components.UIs
+namespace ParkMinDev.UPM.Workflow.Minimap.Components.UIs
 {
+	[UnityEngine.Scripting.APIUpdating.MovedFrom(true, sourceNamespace: "ParkMinPackages.Workflow.Minimap.Components.UIs", sourceAssembly: "ParkMinPackages.Workflow.Minimap", sourceClassName: "MiniMapElementUI")]
 	public abstract class MiniMapElementUI : Actor
 	{
 		// - Public Methods -

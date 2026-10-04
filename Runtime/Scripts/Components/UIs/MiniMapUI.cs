@@ -2,12 +2,12 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-using ParkMinPackages.Foundation.Constants;
-using ParkMinPackages.Foundation.Interfaces;
-using ParkMinPackages.Workflow.Default.Components.UIs;
-using ParkMinPackages.Workflow.Minimap.Components.Actors;
-using ParkMinPackages.Workflow.Minimap.Enums;
-using ParkMinPackages.Workflow.Minimap.Interfaces;
+using ParkMinDev.UPM.Foundation.Constants;
+using ParkMinDev.UPM.Foundation.Interfaces;
+using ParkMinDev.UPM.Workflow.Default.Components.UIs;
+using ParkMinDev.UPM.Workflow.Minimap.Components.Actors;
+using ParkMinDev.UPM.Workflow.Minimap.Enums;
+using ParkMinDev.UPM.Workflow.Minimap.Interfaces;
 using R3;
 using R3.Triggers;
 using Sirenix.OdinInspector;
@@ -15,8 +15,9 @@ using UnityEngine;
 using UnityEngine.Serialization;
 using UnityEngine.UI;
 
-namespace ParkMinPackages.Workflow.Minimap.Components.UIs
+namespace ParkMinDev.UPM.Workflow.Minimap.Components.UIs
 {
+	[UnityEngine.Scripting.APIUpdating.MovedFrom(true, sourceNamespace: "ParkMinPackages.Workflow.Minimap.Components.UIs", sourceAssembly: "ParkMinPackages.Workflow.Minimap", sourceClassName: "MiniMapUI")]
 	[RequireComponent(typeof(RectMask2D))]
 	public class MiniMapUI : BasicUI, IMiniMapUI, IEnumerable<MiniMapElementUI>, IR3PostLateUpdatable
 	{

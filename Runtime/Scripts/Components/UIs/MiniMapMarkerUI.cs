@@ -1,17 +1,18 @@
 using System;
 using Cysharp.Threading.Tasks;
-using ParkMinPackages.Foundation.Constants;
-using ParkMinPackages.Foundation.Objects.Threading;
-using ParkMinPackages.UGUI.Components;
-using ParkMinPackages.Workflow.Minimap.Enums;
+using ParkMinDev.UPM.Foundation.Constants;
+using ParkMinDev.UPM.Foundation.Objects.Threading;
+using ParkMinDev.UPM.UGUI.Components;
+using ParkMinDev.UPM.Workflow.Minimap.Enums;
 using R3;
 using R3.Triggers;
 using Sirenix.OdinInspector;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace ParkMinPackages.Workflow.Minimap.Components.UIs
+namespace ParkMinDev.UPM.Workflow.Minimap.Components.UIs
 {
+	[UnityEngine.Scripting.APIUpdating.MovedFrom(true, sourceNamespace: "ParkMinPackages.Workflow.Minimap.Components.UIs", sourceAssembly: "ParkMinPackages.Workflow.Minimap", sourceClassName: "MiniMapMarkerUI")]
 	[RequireComponent(typeof(Image))]
 	public class MiniMapMarkerUI : MiniMapElementUI
 	{

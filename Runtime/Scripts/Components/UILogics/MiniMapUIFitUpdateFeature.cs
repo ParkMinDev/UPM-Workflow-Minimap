@@ -1,12 +1,13 @@
 using System;
-using ParkMinPackages.Foundation.Components;
-using ParkMinPackages.Foundation.Constants;
-using ParkMinPackages.Foundation.Interfaces;
+using ParkMinDev.UPM.Foundation.Components;
+using ParkMinDev.UPM.Foundation.Constants;
+using ParkMinDev.UPM.Foundation.Interfaces;
 using Sirenix.OdinInspector;
 using UnityEngine;
 
-namespace ParkMinPackages.Workflow.Minimap.Components.UILogics
+namespace ParkMinDev.UPM.Workflow.Minimap.Components.UILogics
 {
+	[UnityEngine.Scripting.APIUpdating.MovedFrom(true, sourceNamespace: "ParkMinPackages.Workflow.Minimap.Components.UILogics", sourceAssembly: "ParkMinPackages.Workflow.Minimap", sourceClassName: "MiniMapUIFitUpdateFeature")]
 	public sealed class MiniMapUIFitUpdateFeature : Feature<MiniMapUIFitFeature>, IR3PreLateUpdatable
 	{
 		// - Public Methods -

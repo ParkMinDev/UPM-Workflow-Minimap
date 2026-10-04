@@ -5,6 +5,13 @@ All notable changes to this package will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [8.0.0] - 2026-10-04
+
+### Changed
+- Breaking: moved namespaces and assembly names from `ParkMinPackages.Workflow.Minimap` to `ParkMinDev.UPM.Workflow.Minimap` while preserving namespace suffixes and asset GUIDs.
+- Updated package references, assembly friend declarations, serialized type identifiers, and final dependency versions.
+- Added previous type-location metadata where applicable and preserved existing MovedFrom history.
+
 ## [7.0.6] - 2026-10-04
 
 ### Changed

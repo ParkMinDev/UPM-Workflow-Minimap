@@ -1,4 +1,4 @@
-namespace ParkMinPackages.Workflow.Minimap.Enums
+namespace ParkMinDev.UPM.Workflow.Minimap.Enums
 {
 	public enum MiniMapElementLayer
 	{

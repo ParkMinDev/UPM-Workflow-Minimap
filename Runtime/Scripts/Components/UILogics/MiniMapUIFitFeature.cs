@@ -1,12 +1,13 @@
 using System;
-using ParkMinPackages.Foundation.Components;
-using ParkMinPackages.Foundation.Constants;
-using ParkMinPackages.Workflow.Minimap.Interfaces;
+using ParkMinDev.UPM.Foundation.Components;
+using ParkMinDev.UPM.Foundation.Constants;
+using ParkMinDev.UPM.Workflow.Minimap.Interfaces;
 using Sirenix.OdinInspector;
 using UnityEngine;
 
-namespace ParkMinPackages.Workflow.Minimap.Components.UILogics
+namespace ParkMinDev.UPM.Workflow.Minimap.Components.UILogics
 {
+	[UnityEngine.Scripting.APIUpdating.MovedFrom(true, sourceNamespace: "ParkMinPackages.Workflow.Minimap.Components.UILogics", sourceAssembly: "ParkMinPackages.Workflow.Minimap", sourceClassName: "MiniMapUIFitFeature")]
 	public sealed class MiniMapUIFitFeature : Feature<IMiniMapUI>
 	{
 		// - Class Struct Enum -

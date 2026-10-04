@@ -1,7 +1,7 @@
 {
   "name": "com.parkmindev.upm.workflow.minimap",
   "displayName": "ParkMinDev.UPM.Workflow.Minimap",
-  "version": "7.0.6",
+  "version": "8.0.0",
   "license": "MIT",
   "documentationUrl": "https://github.com/ParkMinDev/UPM-Workflow-Minimap#readme",
   "changelogUrl": "https://github.com/ParkMinDev/UPM-Workflow-Minimap/blob/main/CHANGELOG.md",

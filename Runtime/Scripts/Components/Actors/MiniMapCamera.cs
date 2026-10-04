@@ -1,12 +1,13 @@
 using System;
-using ParkMinPackages.Foundation.Constants;
-using ParkMinPackages.Foundation.Interfaces;
-using ParkMinPackages.Workflow.Default.Components;
+using ParkMinDev.UPM.Foundation.Constants;
+using ParkMinDev.UPM.Foundation.Interfaces;
+using ParkMinDev.UPM.Workflow.Default.Components;
 using Sirenix.OdinInspector;
 using UnityEngine;
 
-namespace ParkMinPackages.Workflow.Minimap.Components.Actors
+namespace ParkMinDev.UPM.Workflow.Minimap.Components.Actors
 {
+	[UnityEngine.Scripting.APIUpdating.MovedFrom(true, sourceNamespace: "ParkMinPackages.Workflow.Minimap.Components.Actors", sourceAssembly: "ParkMinPackages.Workflow.Minimap", sourceClassName: "MiniMapCamera")]
 	[ExecuteAlways, RequireComponent(typeof(Camera))]
 	public class MiniMapCamera : Actor, IR3Updatable
 	{

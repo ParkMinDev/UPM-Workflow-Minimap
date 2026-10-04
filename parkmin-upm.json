@@ -6,17 +6,17 @@
       "gitDependencies": [
         {
           "packageName": "com.parkmindev.upm.foundation",
-          "version": "10.1.5",
+          "version": "11.0.0",
           "url": "https://github.com/ParkMinDev/UPM-Foundation.git"
         },
         {
           "packageName": "com.parkmindev.upm.ugui",
-          "version": "15.0.5",
+          "version": "16.0.0",
           "url": "https://github.com/ParkMinDev/UPM-UGUI.git"
         },
         {
           "packageName": "com.parkmindev.upm.workflow.default",
-          "version": "10.0.7",
+          "version": "11.0.0",
           "url": "https://github.com/ParkMinDev/UPM-Workflow-Default.git"
         },
         {

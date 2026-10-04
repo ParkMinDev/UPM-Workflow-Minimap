@@ -1,11 +1,11 @@
 # ParkMinDev.UPM.Workflow.Minimap
 
-A reusable minimap workflow package for Unity projects built on `ParkMinPackages.Workflow.Default`.
+A reusable minimap workflow package for Unity projects built on `ParkMinDev.UPM.Workflow.Default`.
 
 ## Requirements
 
 - Unity 6000.5 or newer
-- ParkMinPackages.Workflow.Default 9.1.4 or newer
+- ParkMinDev.UPM.Workflow.Default 9.1.4 or newer
 
 ## Installation
 

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace ParkMinPackages.Workflow.Minimap.Interfaces
+namespace ParkMinDev.UPM.Workflow.Minimap.Interfaces
 {
 	public interface IMiniMapUI
 	{
