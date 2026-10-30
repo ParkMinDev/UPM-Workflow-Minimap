@@ -5,6 +5,11 @@ All notable changes to this package will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [8.0.13] - 2026-10-30
+
+### Changed
+- Update the Workflow.Default dependency to 15.0.1 for the UIEditor play-mode arrangement guard fix.
+
 ## [8.0.12] - 2026-10-30
 
 ### Changed
